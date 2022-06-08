@@ -1,2 +1,2 @@
-#!/bin/bash
-Echo pwd
+echo-e '#!/bin/bash'
+echo 'npwd'
